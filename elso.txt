@@ -1,4 +1,4 @@
-Ez az első fájlt.
+Ez az első fájlt!!!.
 Ez a módosítás benne.
 Ez egy újabb módosítás.
 <<<<<<< HEAD
