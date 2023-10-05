@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 Ez az első fájlt????.
+>>>>>>> 5cd05f263ba52cba8379c6bc8f4582df17e57d75
 Ez a módosítás benne.
 Ez egy újabb módosítás.
 <<<<<<< HEAD
