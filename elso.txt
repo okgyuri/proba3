@@ -1,4 +1,8 @@
 Ez az első fájlt.
 Ez a módosítás benne.
 Ez egy újabb módosítás.
+<<<<<<< HEAD
 Ez egy még újabb.
+=======
+Ez is egy módosítás.
+>>>>>>> 4c542a81220b513ebfa83d9b24a9f02581dcc146
